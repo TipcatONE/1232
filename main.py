@@ -4,4 +4,4 @@ answear = a + b
 if answear <= 20:
     print("u are freak ?")
 else:
-    print('good boy')
+    print('bad boy')
