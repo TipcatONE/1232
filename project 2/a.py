@@ -1,4 +1,8 @@
-a = int(2)
-b = int(3)
+a = int(input("Ввидите число"))
+b = int(input("Ввидите число"))
 c = a ** b
-print(c) 
+if c <= 10:
+    d = b%a
+    print(d)
+else:
+    print("daun")
